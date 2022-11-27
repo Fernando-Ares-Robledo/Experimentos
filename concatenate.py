@@ -1,3 +1,12 @@
+#! /usr/bin/env python
+#  -*- coding: utf-8 -*-
+#
+#   Python version-3.9.1
+#   November 27, 2020 23:16:59 PM CET  platform: Windows NT
+#   Author: Fernando Ares Robledo
+#           
+#   Mail: fernandoaresrobledo@gmail.com
+
 import serial
 import time
 from datetime import date ,datetime
